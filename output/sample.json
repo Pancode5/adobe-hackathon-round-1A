@@ -1,0 +1,40 @@
+{
+  "title": "sample",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Understanding AI",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Introduction",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "What is AI?",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Artificial Intelligence (AI) refers to the simulation of human intelligence in machines.",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "History of AI",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "The 1950s: Beginnings",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "In the 1950s, early AI research began with symbolic reasoning and logic-based programs.",
+      "page": 1
+    }
+  ]
+}
