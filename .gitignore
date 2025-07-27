@@ -1,0 +1,42 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environment folders
+venv/
+env/
+
+# VS Code settings (optional)
+.vscode/
+
+# Jupyter Notebook checkpoints (if used)
+.ipynb_checkpoints/
+
+# macOS and Windows junk files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Output directories (common in your round1A and round1B folders)
+output/
+outputs/
+*.log
+*.json
+
+# Docker ignore (if any local Docker artifacts)
+*.tar
+*.pid
+
+# PyCharm
+.idea/
+
+# Environment/config files (if any)
+.env
+*.env
+config.json
+
+# Ignore test files, cache, coverage reports (if added later)
+*.cover
+.coverage
+coverage.xml
+*.pytest_cache/
